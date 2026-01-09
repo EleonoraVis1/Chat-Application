@@ -1,0 +1,34 @@
+Sukurtas kambarys
+Prijungtas serveris
+Prisijunge klientas: Helll
+Prisijunge klientas: Hell
+Serverio išsiųta žinutė: hello clients
+Serverio išsiųta žinutė: i like you more
+Sukurtas kambarys
+Prijungtas serveris
+Prisijunge klientas: Jonas
+Prisijunge klientas: Petras
+Serverio išsiųta žinutė: Sveiki visi
+Serverio išsiųta žinutė: Labas jonas
+Kliento Jonas išsiųsta žinutė: Labas serveris
+Kliento Petras išsiųsta žinutė: Labsa
+Sukurtas kambarys
+Prijungtas serveris
+Prisijunge klientas: Petras
+Prisijunge klientas: Jonas
+Serverio išsiųta žinutė: laba visi
+Serverio išsiųta žinutė: i like you more
+Kliento Petras išsiųsta žinutė: labas serveris
+Klientas Jonas paliko kambarį
+Sukurtas kambarys
+Prijungtas serveris
+Prisijunge klientas: Jonas
+Prisijunge klientas: Joe
+Sukurtas kambarys
+Prijungtas serveris
+Sukurtas kambarys
+Prijungtas serveris
+Prisijunge klientas: Joe
+Prisijunge klientas: Lily
+Serverio išsiųta žinutė: Hi everyone
+Kliento Lily išsiųsta žinutė: Hi server!
